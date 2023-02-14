@@ -1,4 +1,4 @@
-```me.json
+```me.js
 { 
     "using languages":[JavaScript,Python,Java,C],
     "interested languages": [ TypeScript, Go, Rust, Ruby], 
