@@ -1,7 +1,7 @@
 ```js
 { 
     "using_languages":[JavaScript,Python,Java,C],
-    "interested_languages": [ TypeScript, Go, Rust, Ruby], 
+    "interested_languages": [ TypeScript, Go, Rust], 
     "interested_field": [Cryptosystem,Scraping,UserTracking]
 }
 ```
