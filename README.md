@@ -4,7 +4,7 @@ const toME = {
     "interested_lang": [ TypeScript, Go, Rust], 
     "available_framework": [React,Express],
     "interested_framework": [Vue,Nextjs,Nuxtjs,Svelte,Astro],
-    "interested_field": [IntaractiveUI,Crypto,Scraping,UserTrack,Cloudflare],
+    "interested_field": [InteractiveUI,Crypto,Scraping,UserTrack,Cloudflare],
     "using_code_editor": [VSCode,Neovim,Lunarvim],
 }
 ```
