@@ -1,8 +1,11 @@
 ```js
-{ 
-    "using_languages":[JavaScript,Python,Java,C],
-    "interested_languages": [ TypeScript, Go, Rust], 
-    "interested_field": [Crypto,Scraping,UserTracking,Cloudflare]
+const toME = { 
+    "available_lang":[ JavaScript,Python,Java,C],
+    "interested_lang": [ TypeScript, Go, Rust], 
+    "available_framework": [React,Express],
+    "interested_framework": [Vue,Nextjs,Nuxtjs,Svelte,Astro],
+    "interested_field": [IntaractiveUI,Crypto,Scraping,UserTrack,Cloudflare],
+    "using_code_editor": [VSCode,Neovim,Lunarvim],
 }
 ```
 🤌🤌🤌
