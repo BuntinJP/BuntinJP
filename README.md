@@ -13,7 +13,7 @@ let ME = {
 ## If you have any questions about my repository, please feel free to send me an email or contact me on my Discord (ぶんちん#2125).
 
 <div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="t">
 </div>
 
 [![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://buntin.tech)
