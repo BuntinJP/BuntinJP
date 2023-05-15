@@ -3,7 +3,7 @@ let ME = {
     "available_lang":[ JavaScript,Python,Java,C],
     "interested_lang": [ TypeScript, Go, Rust], 
     "available_framework": [React,Express],
-    "interested_framework": [Vue,Nextjs,Nuxtjs,Svelte,Astro],
+    "interested_framework": [Nextjs,Nuxtjs,Svelte,Astro,Tauri],
     "interested_field": [InteractiveUI,Crypto,Scraping,UserTrack,Cloudflare],
     "using_code_editor": [VSCode,Neovim,Lunarvim],
 }
