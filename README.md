@@ -13,7 +13,7 @@ Interested:[![My Interest](https://skillicons.dev/icons?i=tauri,astro,nextjs,sve
 
 #### Using Services
 
-[![My Interest](https://skillicons.dev/icons?i=cloudflare,azure,discord,gcp,linux,neovim,nginx,vscode)](https://buntin.xyz)
+[![My Interest](https://skillicons.dev/icons?i=cloudflare,nginx,azure,gcp,linux,discord,neovim,vscode)](https://buntin.xyz)
 
 #### Field of Study,Interested
 
