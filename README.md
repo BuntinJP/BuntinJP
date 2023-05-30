@@ -1,9 +1,9 @@
 ### About Me
 
 #### Lang
-Available:[![My Skills](https://skillicons.dev/icons?i=js,py,java,c)](https://buntin.xyz)
+Available:[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)
 
-Interested:[![My Interest](https://skillicons.dev/icons?i=rust,go,ts,crystal)](https://buntin.xyz)
+Interested:[![My Interest](https://skillicons.dev/icons?i=rust,go,crystal)](https://buntin.xyz)
 
 #### Frameworks & Technology
 
