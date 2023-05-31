@@ -5,17 +5,17 @@
 
 | \                       |                                                         Available                                                         |                                                   Interested                                                   |
 | :---------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| Language                |             [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)             |      [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,go,crystal)](https://buntin.xyz)      |
-| Frameworks & Technology | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz) | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=tauri,astro,nextjs,svelte,kubernetes,haskell)](https://buntin.xyz) |
+| Language                |             [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)             |      [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,go,crystal,haskell,swift)](https://buntin.xyz)      |
+| Frameworks & Technology | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz) | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=tauri,astro,nextjs,svelte,kubernetes)](https://buntin.xyz) |
 
-|                                                            Using                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------: |
-| [![My Interest](https://skillicons.dev/icons?i=cloudflare,nginx,azure,gcp,linux,discord,neovim,vscode)](https://buntin.xyz) |
+|                                                            Using                                                            |                                                           Learning                                                            |
+| :-------------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------------: |
+| [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=cloudflare,nginx,azure,gcp,linux,discord,neovim,vscode)](https://buntin.xyz) |[![My Interest](https://skill-icons.buntin.workers.dev/icons?i=scikitlearn,tailwind,wasm)](https://buntin.xyz) |
 
 </center>
   </div>
   
-```
+```yaml
 Field of study: Computer Science & Machine Learning
 Areas of interest: Artificial Intelligence, Web, Cryptocurrency, Large-scale Language Models
 Residence: Japan
