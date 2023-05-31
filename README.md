@@ -10,7 +10,7 @@
 
 |                                                            Using                                                            |                                                           Learning                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------------: |
-| [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=cloudflare,nginx,azure,gcp,linux,discord,neovim,vscode)](https://buntin.xyz) |[![My Interest](https://skill-icons.buntin.workers.dev/icons?i=scikitlearn,tailwind,wasm)](https://buntin.xyz) |
+| [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=cloudflare,nginx,azure,gcp,linux,neovim,vscode)](https://buntin.xyz) |[![My Interest](https://skill-icons.buntin.workers.dev/icons?i=scikitlearn,tailwind,wasm)](https://buntin.xyz) |
 
 </center>
   </div>
@@ -24,7 +24,9 @@ University Location: Tokyo
 
 🤌🤌🤌
 
-## 私のレポジトリに関して、質問などありましたら、メールか、私の Discord(ぶんちん#2125)まで気軽にお寄せください。
+## 私のレポジトリに関して質問などありましたら、私の Discord(ぶんちん#2125)まで気軽にお寄せください。
+
+[![t](https://skill-icons.buntin.workers.dev/icons?i=discord)](https://discordapp.com/users/551395071774425088)
 
 [![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://buntin.xyz)
 [![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://buntin.xyz)
