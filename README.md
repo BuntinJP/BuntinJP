@@ -1,19 +1,20 @@
 ### About Me
 
-#### Lang
-Available:[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)
+<div>
+  <center>
 
-Interested:[![My Interest](https://skillicons.dev/icons?i=rust,go,crystal)](https://buntin.xyz)
+ | \ | Available | Interested |
+|:--- | :---: | :---: |
+|Language|   [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)    |     [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,go,crystal)](https://buntin.xyz)     |
+| Frameworks & Technology |  [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz)       |     [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=tauri,astro,nextjs,svelte)](https://buntin.xyz)     |
 
-#### Frameworks & Technology
+| Using|
+| :---: |
+|[![My Interest](https://skillicons.dev/icons?i=cloudflare,nginx,azure,gcp,linux,discord,neovim,vscode)](https://buntin.xyz) |
 
-Available:[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz)
-
-Interested:[![My Interest](https://skillicons.dev/icons?i=tauri,astro,nextjs,svelte)](https://buntin.xyz)
-
-#### Using Services
-
-[![My Interest](https://skillicons.dev/icons?i=cloudflare,nginx,azure,gcp,linux,discord,neovim,vscode)](https://buntin.xyz)
+  
+</center>
+  </div>
 
 #### Field of Study,Interested
 
