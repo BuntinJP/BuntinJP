@@ -17,20 +17,12 @@
 </center>
   </div>
   
-```ts
+```
 Field of study: Computer Science & Machine Learning
 Areas of interest: Artificial Intelligence, Web, Cryptocurrency, Large-scale Language Models
 Residence: Japan
 University Location: Tokyo
 ```
-
-#### Field of Study,Interested
-
-- InteractiveUI
-- Crypto
-- Scraping
-- UserTrack
-- Cloudflare(CDN,Workers)
 
 🤌🤌🤌
 ## 私のレポジトリに関して、質問などありましたら、メールか、私のDiscord(ぶんちん#2125)まで気軽にお寄せください。
