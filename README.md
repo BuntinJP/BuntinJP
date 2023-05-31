@@ -12,9 +12,17 @@
 | :---: |
 |[![My Interest](https://skillicons.dev/icons?i=cloudflare,nginx,azure,gcp,linux,discord,neovim,vscode)](https://buntin.xyz) |
 
+    
   
 </center>
   </div>
+  
+```ts
+Field of study: Computer Science & Machine Learning
+Areas of interest: Artificial Intelligence, Web, Cryptocurrency, Large-scale Language Models
+Residence: Japan
+University Location: Tokyo
+```
 
 #### Field of Study,Interested
 
