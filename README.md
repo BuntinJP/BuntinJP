@@ -26,8 +26,10 @@ University Location: Tokyo
 
 ## 私のレポジトリに関して質問などありましたら、私の Discord(ぶんちん#2125)まで気軽にお寄せください。
 
-[![t](https://skill-icons.buntin.workers.dev/icons?i=discord)](https://discordapp.com/users/551395071774425088)
+[![t](https://skill-icons.buntin.workers.dev/icons?i=discord)](https://github.com/buntinjp)
 
-[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://buntin.xyz)
-[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://buntin.xyz)
-[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://buntin.xyz)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/buntinjp)
