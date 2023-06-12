@@ -24,7 +24,7 @@ University Location: Tokyo
 
 🤌🤌🤌
 
-## 私のレポジトリに関して質問などありましたら、私の Discord(ぶんちん#2125)まで気軽にお寄せください。
+## 私のレポジトリに関して質問などありましたら、私の Discord(ぶんちん#0001)まで気軽にお寄せください。
 
 [![t](https://skill-icons.buntin.workers.dev/icons?i=discord)](https://github.com/buntinjp)
 
