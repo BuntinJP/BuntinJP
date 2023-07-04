@@ -5,7 +5,7 @@
 
 | \                       |                                                         Available                                                         |                                                   Interested                                                   |
 | :---------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| Language                |             [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)             |      [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,go,crystal,haskell,swift)](https://buntin.xyz)      |
+| Language                |             [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)             |      [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,go,crystal,nim,haskell,swift)](https://buntin.xyz)      |
 | Frameworks & Technology | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz) | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=tauri,astro,nextjs,svelte,kubernetes)](https://buntin.xyz) |
 
 |                                                            Using                                                            |                                                           Learning                                                            |
