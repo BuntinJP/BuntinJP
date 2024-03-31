@@ -1,8 +1,4 @@
-# Please Rewrite podman from Go & C, into Rust or Zig.
-
-# Please Rewrite cloudflared from Go , into Rust.
-
-## My Favorite is Bun, TypeScript, Discord.js, and Rust.
+# Bun, TypeScript, and Rust.
 
 ### About Me
 
@@ -11,26 +7,26 @@
 
 | \                       |                                                         Available                                                         |                                                        Interested                                                         |
 | :---------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| Language                |             [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)             |          [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,nim,zig,swift)](https://buntin.xyz)          |
-| Frameworks & Technology | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz) | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=tauri,astro,nextjs,svelte,kubernetes)](https://buntin.xyz) |
+| Language                |             [![My_Skills](https://skillicons.dev/icons?i=ts,js,py,rust)](https://buntin.xyz)             |          [![My Interest](https://skillicons.dev/icons?i=zig,swift,kotlin,cs,nim,crystal)](https://buntin.xyz)          |
+| Frameworks & Technology | [![My Skills](https://skillicons.dev/icons?i=bun,react,nextjs,nodejs,deno,ipfs)](https://buntin.xyz) | [![My Interest](https://skillicons.dev/icons?i=tauri,astro,svelte,kubernetes,supabase,wasm,workers)](https://buntin.xyz) |
 
-|                                                                Using                                                                |                                                    Learning                                                    |
-| :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=cloudflare,nginx,azure,gcp,linux,neovim,vscode)](https://buntin.xyz) | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=scikitlearn,tailwind,wasm)](https://buntin.xyz) |
+|                                                                Using(Hobby & Work)                                                                | 
+| :---------------------------------------------------------------------------------------------------------------------------------: | 
+| [![My Interest](https://skillicons.dev/icons?i=aws,,nginx,azure,redhat,linux,vscode,neovim)](https://buntin.xyz) | 
 
 </center>
   </div>
   
 ```yaml
-Field of study: Computer Science & Machine Learning
-Areas of interest: Artificial Intelligence, Web, Cryptocurrency, Large-scale Language Models
+Field of study: Computer Science & Machine Learning (Graduated)
+Areas of interest: Web, Cryptocurrency,　Blockchain, Web3
 Residence: Japan
 University Location: Tokyo
 ```
 
 🤌🤌🤌
 
-## 私のレポジトリに関して質問などありましたら、私の Discord(buntin_synthia)まで気軽にお寄せください。
+## 私のレポジトリに関して何かありましたら、私の Discord(buntin_synthia)までお寄せください。
 
 [![t](https://skill-icons.buntin.workers.dev/icons?i=discord)](https://github.com/buntinjp)
 
