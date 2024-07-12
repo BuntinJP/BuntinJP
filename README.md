@@ -7,7 +7,7 @@
 
 | \                       |                                                         Available                                                         |                                                        Interested                                                         |
 | :---------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| Language                |             [![My_Skills](https://skillicons.dev/icons?i=ts,js,py,rust)](https://buntin.xyz)             |          [![My Interest](https://skillicons.dev/icons?i=zig,swift,kotlin,cs,nim,crystal)](https://buntin.xyz)          |
+| Language                |             [![My_Skills](https://skillicons.dev/icons?i=ts,js,py,rust)](https://buntin.xyz)             |          [![My Interest](https://skillicons.dev/icons?i=zig,swift,kotlin,cs,nim,crystal,julia)](https://buntin.xyz)          |
 | Frameworks & Technology | [![My Skills](https://skillicons.dev/icons?i=bun,react,nextjs,nodejs,deno,ipfs)](https://buntin.xyz) | [![My Interest](https://skillicons.dev/icons?i=tauri,astro,svelte,kubernetes,supabase,wasm,workers)](https://buntin.xyz) |
 
 |                                                                Using(Hobby & Work)                                                                | 
