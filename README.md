@@ -12,7 +12,7 @@
 
 |                                                                Using(Hobby & Work)                                                                | 
 | :---------------------------------------------------------------------------------------------------------------------------------: | 
-| [![My Interest](https://skillicons.dev/icons?i=aws,,nginx,azure,redhat,linux,vscode,neovim)](https://buntin.xyz) | 
+| [![My Interest](https://skillicons.dev/icons?i=aws,apache,nginx,redhat,linux,freebsd,vscode,neovim)](https://buntin.xyz) | 
 
 </center>
   </div>
