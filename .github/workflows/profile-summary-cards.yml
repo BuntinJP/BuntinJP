@@ -17,6 +17,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          EXCLUDE: "MDX"
           BRANCH_NAME: "main"
           UTC_OFFSET: 9
           
