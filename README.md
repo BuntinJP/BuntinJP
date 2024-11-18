@@ -1,4 +1,4 @@
-# Bun, TypeScript, and Rust.
+# Deno, TypeScript, and Rust.
 
 ### About Me
 
