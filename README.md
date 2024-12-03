@@ -5,10 +5,10 @@
 <div>
   <center>
 
-| \                       |                                                         Available                                                         |                                                        Interested                                                         |
+| \                       |                                                         Available                                                         |                                                        Learning or Interested                                                         |
 | :---------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| Language                |             [![My_Skills](https://skillicons.dev/icons?i=ts,js,py,rust,bash)](https://buntin.xyz)             |          [![My Interest](https://skillicons.dev/icons?i=zig,swift,kotlin,cs,nim,julia)](https://buntin.xyz)          |
-| Frameworks & Technology | [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,bun,react,nextjs,ipfs,cloudflare)](https://buntin.xyz) | [![My Interest](https://skillicons.dev/icons?i=kubernetes,wasm,tauri,astro,supabase,workers,githubactions)](https://buntin.xyz) |
+| Language                |             [![My_Skills](https://skillicons.dev/icons?i=ts,js,py,rust,bash)](https://buntin.xyz)             |          [![My Interest](https://skillicons.dev/icons?i=regex,zig,swift,kotlin,cs,nim,julia)](https://buntin.xyz)          |
+| Frameworks & Technology | [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,bun,react,nextjs,ipfs,cloudflare)](https://buntin.xyz) | [![My Interest](https://skillicons.dev/icons?i=kubernetes,wasm,remix,tauri,astro,supabase,workers,githubactions)](https://buntin.xyz) |
 
 |                                                                Using(Hobby & Work)                                                                | 
 | :---------------------------------------------------------------------------------------------------------------------------------: | 
